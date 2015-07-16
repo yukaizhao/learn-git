@@ -6,6 +6,4 @@ this is a project for learning git
 this is content added in github website.  
 
 
-## hello this is edit in home pc
-
-this is content added by yukaizhao home.
+hello world
